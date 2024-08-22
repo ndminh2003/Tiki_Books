@@ -51,12 +51,9 @@ values in category values that are the same.
   * SUM of book sales, review amounts and AVERAGE of rating and price for categories
   ![image](https://github.com/user-attachments/assets/45f5fc54-126c-48fe-90aa-c1e803058b4b)
 
-  * Categories distribution of best-seller books
-
+  * Categories distribution of best-seller books<br/>
   ![image](https://github.com/user-attachments/assets/bebaed40-6e98-44f2-b822-51e350e88852)
-
-  * Authors distribution of best seller authors
-
+  * Authors distribution of best seller authors<br/>
   ![image](https://github.com/user-attachments/assets/3945390a-2f63-4f59-9b6b-80b307474ffa)
 ### 4. Analysis Summary
 Now that we have used spreadsheets to take a quick look as well as making a few pivot table now
